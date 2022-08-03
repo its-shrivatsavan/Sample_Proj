@@ -2,3 +2,7 @@ This is file 2.
 
 This is the second user typing: 
 Hello, World!
+
+
+This is the First user typing:
+Hi
